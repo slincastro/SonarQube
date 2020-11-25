@@ -23,6 +23,8 @@
 
 * review the results in http://localhost:9000
 
+> [Reference Post](https://medium.com/@thiagoloureiro/code-analysis-with-sonarqube-docker-net-core-aee521ee8931)
+
 
 
 
